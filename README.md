@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in China, covering official portals, transport, region guides, navigation, and payment systems.
 
+China is a vast East Asian destination seamlessly blending ancient dynastic history, imperial architectural monuments, rapid high-speed rail networks, and diverse regional landscapes. This list is intended for cultural historians, architectural explorers, high-speed rail travelers, and heritage researchers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
