@@ -36,6 +36,7 @@ Essential government entry portals, visa requirements, transit visa exemptions, 
 - [China National Tourist Office (Visit China)](http://www.cnto.org.cn/) - Official tourism board detailing cultural heritage sites, regional destinations, and visitor information.
 - [China Visa Application Service Center](https://www.visaforchina.cn/) - Official service portal for processing entry visas, appointments, and consular requirements worldwide.
 - [National Immigration Administration (NIA)](https://en.nia.gov.cn/) - Official government information on visa-free entry policies, 144-hour transit visas, and port-of-entry regulations.
+- [China in Reach](https://chinainreach.com) - Free, source-checked visa-free and transit eligibility checker for first-time visitors, with practical payment and arrival notes.
 - [China Meteorological Administration (CMA)](http://www.cma.gov.cn/en2014/) - National meteorological service monitoring forecasts, weather warnings, and seasonal climate conditions.
 
 ## Digital Payments & Super Apps
